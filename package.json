@@ -1,6 +1,6 @@
 {
   "name": "merge-spa-component-styles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Dylan Mao <maverickpuss@gmail.com>",
   "description": "Merge extracted Vue Component styles into it's belonging SPA css",
   "main": "lib/index.js",
